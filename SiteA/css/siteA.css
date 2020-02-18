@@ -1,1 +1,134 @@
+#landing{
+    background: url(../pics/Background_pics.jpg);}
+
+#landing>h1{
+    background-color:gainsboro;
+    color:black;
+    font-size: 50px;}
+
+#landing>p{
+    font-size: 25px
+}
+.navigation{
+    border-style: solid;
+    border-width: thick;
+    color:gainsboro;
+    list-style-image: url(../pics/star.png);
+    color:black;
+    font-size: 20px;
+    text-align: center}
+
+
+*{font-family: cursive;}
+
+
+
+#StudioArt{
+    background-color:bisque;
+     color: darkgray}
+#StudioArt>h1{
+    background-color:darkgray;
+    color:bisque;
+    font-size: 45px}
+#StudioArt>p{
+    border-style: solid;
+    border-width: thick;
+    color: darkgray;
+    font-size: 22px}
+
+img.ArtImages{
+    width: 100px;
+    height: 100px;}
+
+
+#Economics{
+    background-color:darkseagreen;
+    color:bisque}
+#Economics>h1{
+   background-color:bisque;
+    color:darkseagreen;
+    font-size: 45px}
+#Economics>p{
+    border-style: solid;
+    border-width: thick;
+    color: bisque;
+    font-size: 22px}
+
+#Politics{
+    background-color: darkgray;
+    color: darkmagenta}
+
+#Politics>h1{
+    background-color:darkmagenta;
+    color:darkgray;
+    font-size: 45px;}
+#Politics>p{
+    border-style: solid;
+    border-width: thick;
+    color:darkmagenta;
+    font-size: 22px}
+
+#ComputerScience{
+    background-color:burlywood;
+    color:black}
+#ComputerScience>h1{
+    background-color:black;
+    color:burlywood;
+    font-size: 45px;}
+#ComputerScience>p{
+    border-style: solid;
+    border-width: thick;
+    font-size: 22px}  
+
+img.CscImages{
+    width: 100px;
+    height: 100px;}
+
+
+#Mathematics{
+    background-color:darkred;
+    color:darkgoldenrod}
+#Mathematics>h1{
+    background-color:darkgoldenrod;
+    color:darkred;
+    font-size: 45px;}
+
+#Mathematics>p{
+    border-style: solid;
+    border-width: thick;
+    font-size: 22px}  
+
+
+img.MathImages{
+    width: 100px;
+    height: 100px;}
+
+
+
+
+
+th{
+    text-align: center;
+    border-bottom:2px solid #111111;
+    border-top: 1px solid #111111;
+    font-size: 15px}
+tr.evenE{
+    background-color:bisque;
+    color:darkseagreen}  
+tr.evenA{
+    background-color:darkgrey;
+    color:bisque}  
+tr.evenP{
+    background-color:darkmagenta;
+    color:darkgray} 
+tr.evenC{
+    background-color:black;
+    color:burlywood}
+tr.evenM{
+    background-color:darkgoldenrod;
+    color:darkred}
+td{
+    text-align: center;
+    font-size: 18px
+}
 

@@ -1,1 +1,88 @@
+#landing{
+    background-color: black;
+    color:gold;
+    }
+#landing>h1{
+    font-size: 60 px
+}
+#landing>p{
+    font-size:25px;
+}
+.navigation{
+    border-style: solid;
+    border-width: thick;
+    color:gold;
+    list-style-image: url(../pics/star.png)active;
+    font-size:20px}
+
+
+*{font-family:fantasy;}
+
+
+
+#StudioArt{
+    background: url(../pics/artpic.jpg);
+     color: black}
+
+img.ArtImages{
+    width: 100px;
+    height: 100px;}
+
+
+#Economics{
+    background: url(../pics/Economics-538811846.jpg);
+    color:white}
+
+
+#Politics{
+    background: url(../pics/politics.jpg);
+    color:black}
+
+
+#ComputerScience{
+    background:url(../pics/csc.jpg);
+    color:white}
+
+img.CscImages{
+    width: 100px;
+    height: 100px;}
+
+
+#Mathematics{
+    background: url(../pics/mathth.jpg)}
+
+
+img.MathImages{
+    width: 100px;
+    height: 100px;}
+
+
+
+
+
+th{
+    text-align: center;
+    border-bottom:2px solid #111111;
+    border-top: 1px solid #111111;
+    font-size: 15px}
+tr.evenE{
+    background-color:bisque;
+    color:darkseagreen}  
+tr.evenA{
+    background-color:darkgrey;
+    color:bisque}  
+tr.evenP{
+    background-color:darkmagenta;
+    color:darkgray} 
+tr.evenC{
+    background-color:black;
+    color:burlywood}
+tr.evenM{
+    background-color:darkgoldenrod;
+    color:darkred}
+td{
+    text-align: center;
+    font-size: 18px
+}
+
 
