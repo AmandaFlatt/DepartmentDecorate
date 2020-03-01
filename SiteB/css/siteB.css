@@ -30,6 +30,7 @@ h1{
     text-align:center
 }
 .day-box{
+  background-color:#DCE3FF;
   width: 1000px;
   height:150px;
 }
@@ -42,16 +43,7 @@ h1{
 
 .reading-box{
     width: 450px;
-    border-left-width: 5px;
-    border-left-style:solid;
-    padding-left: 10px;
-    height:120px;
-    border-right-width:5px;
-    border-right-style:solid;
        
-}
-.prep-box{
-  padding-left:10px;
 }
 .day{
     width:150px;
@@ -65,4 +57,19 @@ h1{
   float:left;
   padding-right: 10px;
   padding-bottom: 10px;
+}
+.account_form{
+ width: 250px;
+}
+.account_form div{
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+.account_form label{
+  width: 150px;
+
+}
+.account_form input{
+  width: 250px;
+  padding:10px;
 }
